@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">traffic_scotland</string>
+    <string-array name="event_choices">
+        <item>Current Incidents</item>
+        <item>Ongoing Roadworks</item>
+        <item>Planned Roadworks</item>
+    </string-array>
+
+    <string-array name="motorways">
+        <item>M73</item>
+        <item>A74</item>
+        <item>M74</item>
+        <item>M77</item>
+        <item>M8</item>
+        <item>M80</item>
+        <item>A823</item>
+        <item>M876</item>
+        <item>M898</item>
+        <item>M9</item>
+        <item>M90</item>
+        <item>A8</item>
+    </string-array>
+
+    <string-array name="a_roads">
+        <item>A-Road</item>
+    </string-array>
+
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_search_traffic">SearchTraffic</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_routes">Routes</string>
+    <string name="title_search">Notifications</string>
+    <string name="title_activity_results">Results</string>
+    <string name="tab_text_1">Current Incidents</string>
+    <string name="tab_text_2">On-going Roadworks</string>
+    <string name="tab_text_3">Planned Roadworks</string>
+    <string name="maps_direction_url">https://maps.googleapis.com/maps/api/directions/json?</string>
+    <string name="Matriculation_number">S1510840</string>
+</resources>
